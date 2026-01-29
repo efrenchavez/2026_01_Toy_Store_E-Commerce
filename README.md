@@ -2,11 +2,11 @@
 This is a Exploratory Data Analysis portfolio project.
 
 ## Goal
-Demonstrate my skills at performing exploratory data analysis (data profiling, data cleaning, univariate/bivariate analysis, feature engineering) to provide descriptive statistics of the raw data (thus demonstrating a simple ETL process).
+Demonstrate my skills at performing exploratory data analysis (data profiling, data cleaning, univariate/bivariate analysis, feature engineering) to provide descriptive statistics from the raw data (thus demonstrating a simple ETL process) and present them in a simple dashboard (thus demonstrating data visualization).
 
 ## About the data
 Maven Fuzzy Factory is a synthetic dataset created by Maven Analytics.
-It contains fictitious e-commerce data simulatind 3 years of sales.
+It contains fictitious e-commerce data simulating 3 years of sales.
 
 The original dataset can be accessed at:
 https://mavenanalytics.io/data-playground/toy-store-e-commerce-database
