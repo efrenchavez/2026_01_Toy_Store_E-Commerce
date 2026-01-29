@@ -1,5 +1,5 @@
 # 2026_01_Toy_Store_E-Commerce
-This is a Exploratory Data analysis portfolio project.
+This is a Exploratory Data Analysis portfolio project.
 
 ## Goal
 Demonstrate my skills at performing exploratory data analysis (data profiling, data cleaning, univariate/bivariate analysis, feature engineering) to provide descriptive statistics of the raw data (thus demonstrating a simple ETL process).
@@ -13,6 +13,14 @@ https://mavenanalytics.io/data-playground/toy-store-e-commerce-database
 
 Alternatively, it has been uploaded to Kaggle:
 https://www.kaggle.com/datasets/siddharth0935/toy-store-e-commerce-database/data
+
+## Business relevancy
+Although the data is fictitious, it simulated actual e-commerce traffic. 
+Such a business would probably be interested in knowing about:
+* Most popular products
+* Least popular products
+* Conversion rate
+* Average order value
 
 ## Requirements
 This project uses, among other Python modules, pandas & jupyter notebooks.
