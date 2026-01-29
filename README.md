@@ -1,3 +1,6 @@
+# UNDER CONSTRUCTION
+yeah i should have written that in earlier commits
+
 # 2026_01_Toy_Store_E-Commerce
 This is a Exploratory Data Analysis portfolio project.
 
@@ -7,6 +10,7 @@ Demonstrate my skills at performing exploratory data analysis (data profiling, d
 ## About the data
 Maven Fuzzy Factory is a synthetic dataset created by Maven Analytics.
 It contains fictitious e-commerce data simulating 3 years of sales.
+Maven Analytics provides this data under a Public Domain license, I do not own or have any special rights over it nor have I created it.
 
 The original dataset can be accessed at:
 https://mavenanalytics.io/data-playground/toy-store-e-commerce-database
