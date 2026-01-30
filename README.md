@@ -34,6 +34,6 @@ A full requiremenst list can be found in `/requirements.txt`
 * Dashboard: a simple dashboard app is in `/main.py`
 * Dataset: all 6 tables of the original database are located in `/data/raw/`
 * Clean data: products of exploratory data analysis are located in `/data/clean/`
-* Jupyter notebooks: stored in `/jupyter/` with any resources specific to them located in `/jupyter/img/`.
+* Jupyter notebooks: stored in `/jupyter/` with any resources specific to them located in `/jupyter/img/` or `/jupyter/utils/`.
 * Ancilliary components: Additional python scripts are located in `/utils/`
 
