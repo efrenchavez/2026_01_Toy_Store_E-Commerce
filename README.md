@@ -31,9 +31,9 @@ This project uses, among other Python modules, pandas & jupyter notebooks.
 A full requiremenst list can be found in `/requirements.txt` 
 
 ## Components
-* Dashboard: a simple dashboard is in `/main.py`
+* Dashboard: a simple dashboard app is in `/main.py`
 * Dataset: all 6 tables of the original database are located in `/data/raw/`
 * Clean data: products of exploratory data analysis are located in `/data/clean/`
-* Jupyter notebooks: to keep them out of the base directory, but still in a directory where (to the best of my abilities) they can read the data, the notebooks are in `/data/`.
+* Jupyter notebooks: stored in `/jupyter/` with any resources specific to them located in `/jupyter/img/`.
 * Ancilliary components: Additional python scripts are located in `/utils/`
 
