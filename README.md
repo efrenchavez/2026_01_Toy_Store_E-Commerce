@@ -1,5 +1,4 @@
-# UNDER CONSTRUCTION
-yeah i should have written that in earlier commits
+# *** UNDER CONSTRUCTION (WIP) ***
 
 # 2026_01_Toy_Store_E-Commerce
 This is a Exploratory Data Analysis portfolio project.
