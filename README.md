@@ -9,13 +9,7 @@ Demonstrate my skills at performing exploratory data analysis (data profiling, d
 ## About the data
 Maven Fuzzy Factory is a synthetic dataset created by Maven Analytics.
 It contains fictitious e-commerce data simulating 3 years of sales.
-Maven Analytics provides this data under a Public Domain license, I do not own or have any special rights over it nor have I created it.
-
-The original dataset can be accessed at:
-https://mavenanalytics.io/data-playground/toy-store-e-commerce-database
-
-Alternatively, it has been uploaded to Kaggle:
-https://www.kaggle.com/datasets/siddharth0935/toy-store-e-commerce-database/data
+Maven Analytics provides [this data](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database) under a Public Domain license, I do not own or have any special rights over it nor have I created it. Alternatively, it has been uploaded to [Kaggle](https://www.kaggle.com/datasets/siddharth0935/toy-store-e-commerce-database/data).
 
 ## Business relevancy
 Although the data is fictitious, it simulated actual e-commerce traffic. 
@@ -32,7 +26,7 @@ A full requiremenst list can be found in `/requirements.txt`
 ## Components
 * Dashboard: a simple dashboard app is in `/main.py`
 * Dataset: all 6 tables of the original database are located in `/data/raw/`
-* Clean data: products of exploratory data analysis are located in `/data/clean/`
+* Clean data: products of exploratory data analysis are located in `/data/enriched/`
 * Jupyter notebooks: stored in `/jupyter/` with any resources specific to them located in `/jupyter/img/` or `/jupyter/utils/`.
 * Ancilliary components: Additional python scripts are located in `/utils/`
 
